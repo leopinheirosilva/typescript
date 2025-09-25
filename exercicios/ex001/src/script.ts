@@ -8,3 +8,11 @@ let numeros: number[] = [1, 2, 3]; //array de números
 let nomes: string[] = ["Leonardo", "João", "Fernando"]; //array de strings
 let booleanos: boolean[] = [true, false, true]; //array de booleanos
 let arrayDeTudo: any[] = [1, "teste", true]; //array de qualquer tipagem
+console.log(nome);
+console.log(idade);
+console.log(isValid);
+console.log(todos);
+console.log(numeros);
+console.log(nomes);
+console.log(booleanos);
+console.log(arrayDeTudo);
