@@ -18,7 +18,7 @@ let listas: [number, string][] = [
   [45, "Jorge"],
 ];
 
-//Intersections
+// Unions
 let productId: number | string = 123; //pode ser number ou string
 productId = "ABC123"; //agora é string
 

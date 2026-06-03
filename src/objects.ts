@@ -24,7 +24,7 @@ let user: User = {
 const log = (message: string) => {};
 log(user.email!); //o "!" indica que a propriedade email não é nula ou undefined
 
-//Unions
+//Intersections
 type Author = {
   books: string[];
 };
